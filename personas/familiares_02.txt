@@ -1,0 +1,6 @@
+familiares_rs/igor_02.jpg	igor
+familiares_rs/igor_03.jpg	igor
+familiares_rs/july_01.jpg	july
+familiares_rs/july_02.jpg	july
+familiares_rs/july_03.jpg	july
+familiares_rs/sole_02.jpg	sole
