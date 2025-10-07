@@ -1,0 +1,13 @@
+familia_rs/july_03.jpg	july
+familia_rs/july_02.jpg	july
+familia_rs/igor_01.jpg	igor
+familia_rs/igor_02.jpg	igor
+familia_rs/marco_01.jpg marco
+familia_rs/marco_02.jpg marco
+familia_rs/sole_01.jpg sole
+familia_rs/sole_02.jpg sole
+familia_rs/sole_03.jpg sole
+familia_rs/papa_01.jpg marco_sr
+familia_rs/papa_02.jpg marco_sr
+familia_rs/nony_01.jpg nony
+familia_rs/nony_02.jpg nony
