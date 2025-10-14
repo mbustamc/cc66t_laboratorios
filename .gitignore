@@ -1,2 +1,4 @@
 *.zip
 *.pth
+dinov3-main/*
+eval/*
