@@ -12,6 +12,7 @@ __pycache__/
 **/eval
 **/nnUnet/
 **/modanet/
-data/
+**/data/
+**/.data/
 **/MNIST/
 **/Sketch-EITZ/
