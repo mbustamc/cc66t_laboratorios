@@ -1,0 +1,15 @@
+paulina/paulina2.png	paulina
+paulina/paulina1.jpeg	paulina
+dicaprio/dicaprio_2.png	dicaprio
+dicaprio/dicaprio.jpg	dicaprio
+barack/barack.jpeg	barack
+barack/barack_2.jpeg	barack
+barack/face_2.jpeg	barack
+pancho/pancho.jpeg	pancho
+pancho/pancho2.jpeg	pancho
+thalia/thalia1.jpg	thalia
+thalia/thalia2.jpg	thalia
+mario/mario1.png	mario
+mario/mario2.png	mario
+michelle/michelle_obama_1.jpeg	michelle
+michelle/michelle_obama_2.jpg	michelle

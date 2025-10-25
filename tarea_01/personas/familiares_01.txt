@@ -1,0 +1,4 @@
+familia_rs/july_03.jpg	july
+familia_rs/july_02.jpg	july
+familia_rs/igor_01.jpg	igor
+familia_rs/igor_02.jpg	igor
