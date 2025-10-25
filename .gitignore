@@ -1,4 +1,8 @@
 *.zip
 *.pth
-dinov3-main/*
-eval/*
+tarea_02/dinov3-main/*
+tarea_02/eval/*
+tarea_03/nnUnet/*
+tarea_03/dinov3-main/*
+tarea_03/dinov3/*
+tarea_03/modanet/*
